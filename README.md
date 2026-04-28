@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hey there! I'm **Ankit** — a passionate **Frontend Developer** with **4+ years of experience** crafting scalable, high-performance web applications that people love to use.
+Hey there! I'm **Ankit** — Frontend focused **FullStack Developer** with **4+ years of experience** crafting scalable, high-performance web applications that people love to use.
 
 I specialize in **React.js**, **TypeScript**, and **GraphQL**, with a sharp focus on clean architecture, reusable component design, and seamless user experiences. Whether it's a complex SPA, a micro-frontend system, or a performance-critical dashboard, I bring precision and care to every line of code.
 
